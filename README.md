@@ -1,2 +1,0 @@
-# Coding-HSG
-Mail Manager
